@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-dogo-blog/static/css/main.9647ccd2.chunk.css",
-    "main.js": "/react-dogo-blog/static/js/main.f0f669a6.chunk.js",
-    "main.js.map": "/react-dogo-blog/static/js/main.f0f669a6.chunk.js.map",
+    "main.js": "/react-dogo-blog/static/js/main.0e4a2325.chunk.js",
+    "main.js.map": "/react-dogo-blog/static/js/main.0e4a2325.chunk.js.map",
     "runtime-main.js": "/react-dogo-blog/static/js/runtime-main.5ef55f9a.js",
     "runtime-main.js.map": "/react-dogo-blog/static/js/runtime-main.5ef55f9a.js.map",
     "static/js/2.791e7815.chunk.js": "/react-dogo-blog/static/js/2.791e7815.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.5ef55f9a.js",
     "static/js/2.791e7815.chunk.js",
     "static/css/main.9647ccd2.chunk.css",
-    "static/js/main.f0f669a6.chunk.js"
+    "static/js/main.0e4a2325.chunk.js"
   ]
 }
