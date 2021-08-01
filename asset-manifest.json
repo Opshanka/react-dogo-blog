@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.9647ccd2.chunk.css",
-    "main.js": "/static/js/main.56276dae.chunk.js",
-    "main.js.map": "/static/js/main.56276dae.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4bfa2f26.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4bfa2f26.js.map",
-    "static/js/2.0e8a9b21.chunk.js": "/static/js/2.0e8a9b21.chunk.js",
-    "static/js/2.0e8a9b21.chunk.js.map": "/static/js/2.0e8a9b21.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.9647ccd2.chunk.css.map": "/static/css/main.9647ccd2.chunk.css.map",
-    "static/js/2.0e8a9b21.chunk.js.LICENSE.txt": "/static/js/2.0e8a9b21.chunk.js.LICENSE.txt"
+    "main.css": "/Opshanka/react-dogo-blog/static/css/main.9647ccd2.chunk.css",
+    "main.js": "/Opshanka/react-dogo-blog/static/js/main.56276dae.chunk.js",
+    "main.js.map": "/Opshanka/react-dogo-blog/static/js/main.56276dae.chunk.js.map",
+    "runtime-main.js": "/Opshanka/react-dogo-blog/static/js/runtime-main.8585e7e2.js",
+    "runtime-main.js.map": "/Opshanka/react-dogo-blog/static/js/runtime-main.8585e7e2.js.map",
+    "static/js/2.0e8a9b21.chunk.js": "/Opshanka/react-dogo-blog/static/js/2.0e8a9b21.chunk.js",
+    "static/js/2.0e8a9b21.chunk.js.map": "/Opshanka/react-dogo-blog/static/js/2.0e8a9b21.chunk.js.map",
+    "index.html": "/Opshanka/react-dogo-blog/index.html",
+    "static/css/main.9647ccd2.chunk.css.map": "/Opshanka/react-dogo-blog/static/css/main.9647ccd2.chunk.css.map",
+    "static/js/2.0e8a9b21.chunk.js.LICENSE.txt": "/Opshanka/react-dogo-blog/static/js/2.0e8a9b21.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4bfa2f26.js",
+    "static/js/runtime-main.8585e7e2.js",
     "static/js/2.0e8a9b21.chunk.js",
     "static/css/main.9647ccd2.chunk.css",
     "static/js/main.56276dae.chunk.js"
