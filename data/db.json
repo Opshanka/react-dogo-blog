@@ -1,16 +1,16 @@
 {
-    "blogs":[
-        {
-            "title" : "My First Blog",
-            "body": "Why do we use it?\n It is a log established fact that a render will be distracted",
-            "author": "mario",
-            "id":1
-        },
-        {
-            "title" : "Opending Party!",
-            "body": "Why do we use it?\n It is a log established fact that a render will be distracted",
-            "author": "yoshi",
-            "id":2
-        }
-    ]
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?\n It is a log established fact that a render will be distracted Why do we use it?\n It is a log established fact that a render will be distracted Why do we use it?\n It is a log established fact that a render will be distracted Why do we use it?\n It is a log established fact that a render will be distracted Why do we use it?\n It is a log established fact that a render will be distracted Why do we use it?\n It is a log established fact that a render will be distracted Why do we use it?\n It is a log established fact that a render will be distractedWhy do we use it?\n It is a log established fact that a render will be distracted",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Opending Party!",
+      "body": "Why do we use it?\n It is a log established fact that a render will be distracted",
+      "author": "yoshi",
+      "id": 2
+    }
+  ]
 }
