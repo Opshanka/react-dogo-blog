@@ -14,7 +14,7 @@ function App() {
             <Route exact path='/'>
               <Home />
             </Route>
-            <Route path='/react-dogo-blog/'>
+            <Route path='/react-dogo-blog'>
               <Home />
             </Route>
             <Route path='/create'>
